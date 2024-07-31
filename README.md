@@ -7,3 +7,9 @@
 * improve upon application to make it really good (typescript, external apis, etc)
 * add a way to delete data
 * turn this into a notekeeping/excel type interface
+
+
+* Make the website look like [cognition.ai](https://www.cognition.ai/) website 
+* Add a section for ImageSegmentation
+* Add a section for ImageClassification
+* Rename the project from DataStore to something related to informatics
